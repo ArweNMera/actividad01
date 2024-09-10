@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e1e774-2cfc-4903-9eb7-50477bd8c602" name="Changes" comment="">
+    <list default="true" id="39e1e774-2cfc-4903-9eb7-50477bd8c602" name="Changes" comment="codigo refactorizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -41,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "equipo1__yagni",
     "last_opened_file_path": "S:/Actividad01/actividad01",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -86,7 +98,38 @@
       <option name="presentableId" value="Default" />
       <updated>1725931433535</updated>
     </task>
+    <task id="LOCAL-00001" summary="codigo YAGNI norregido">
+      <option name="closed" value="true" />
+      <created>1725986721021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986721021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="codigo YAGNI corregido">
+      <option name="closed" value="true" />
+      <created>1725986784682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986784682</updated>
+    </task>
+    <task id="LOCAL-00003" summary="codigo refactorizado">
+      <option name="closed" value="true" />
+      <created>1725986888844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986888844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="codigo YAGNI norregido" />
+    <MESSAGE value="codigo YAGNI corregido" />
+    <MESSAGE value="codigo refactorizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="codigo refactorizado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
